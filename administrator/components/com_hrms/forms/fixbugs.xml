@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form addfieldprefix="Joomla\Component\Hrms\Administrator\Field">
+	<fieldset>
+		<field name="id" type="number"/>
+         <field name="url" type="text" filter="JComponentHelper::filterText"/>
+         <field name="Noidung" type="text" filter="JComponentHelper::filterText"/>
+         <field name="Level" type="number"/>
+         <field name="Trangthai" type="number"/>
+         <field name="published" type="number"/>
+         <field name="ordering" type="number"/>
+         <field name="Ngaytao" type="date"/>
+         <field name="idTao" type="number"/>
+	</fieldset>
+</form>

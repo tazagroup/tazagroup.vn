@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Đào Tạo">
+		<help
+			key = "JHELP_MENUS_MENU_ITEM_HRM_SINGLE_HRM"
+		/>
+		<message>
+			<![CDATA[Đào Tạo]]>
+		</message>
+	</layout>
+	<fields name="request">
+		<fieldset name="request">
+<field
+			name="id"
+			type="list"
+			label="Menu"
+            required="true"
+			>
+            <option value="0">Dashboard</option>
+			<option value="1">Tài Liệu Nguồn</option>
+			<option value="2">Ngân Hàng Câu Hỏi</option>
+			<option value="3">Ngân hàng đề thi</option>
+			<option value="4">Bài Học</option>
+			<option value="5">Nhóm Người Dùng</option>
+			<option value="6">Kỳ Thi</option>
+			<option value="7">Quy Trình</option>
+			<option value="8">Báo Cáo</option>
+			<option value="9">Lớp Học</option>
+			<option value="10">Lớp Học Chi Tiết</option>
+			<option value="11">Yêu Cầu Đào Tạo</option>
+		</field>
+		</fieldset>
+	</fields>
+	<fields name="params">
+        
+	</fields>
+</metadata>

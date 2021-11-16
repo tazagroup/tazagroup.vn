@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Câu Hỏi">
+		<help
+			key = "JHELP_MENUS_MENU_ITEM_HRM_SINGLE_HRM"
+		/>
+		<message>
+			<![CDATA[Câu Hỏi Thường Gặp]]>
+		</message>
+	</layout>
+
+	<fields name="params">
+		
+	</fields>
+</metadata>

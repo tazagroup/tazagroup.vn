@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Tài Liệu S">
+		<help
+			key = "JHELP_MENUS_MENU_ITEM_HRM_SINGLE_HRM"
+		/>
+		<message>
+			<![CDATA[Tài Liệu S]]>
+		</message>
+	</layout>
+	<fields name="request">
+		<fieldset name="request">
+<field
+			name="LoaiTM"
+			type="list"
+			label="Loại Thư Mục"
+            required="true"
+			>
+			<option value="1">Lộ Trình</option>
+			<option value="2">Chính Sách</option>
+			<option value="3">Biên Bản</option>
+			<option value="4">Đầu Mối</option>
+			<option value="5">Quy trình Các Phòng Ban</option>
+			<option value="6">Quy trình Từng Phòng Ban</option>
+			<option value="7">Thông Báo Công Ty</option>
+			<option value="8">Biểu Mẫu</option>
+			<option value="9">Tuyển Dụng</option>
+			<option value="10">Đào Tạo</option>
+			<option value="11">Chế Độ Phúc Lợi</option>
+		</field>
+		</fieldset>
+	</fields>
+	<fields name="params">
+        
+	</fields>
+</metadata>

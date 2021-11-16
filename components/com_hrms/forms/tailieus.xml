@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset addfieldprefix="Joomla\Component\Content\Administrator\Field">
+		<field name="bpdc" type="editor" label="Biện Pháp Điều Chỉnh" buttons="false" filter="JComponentHelper::filterText"
+		/>			
+        <field name="huongtk" type="editor" label="Hướng Triển Khai" buttons="false" filter="JComponentHelper::filterText"
+		/>	
+        <field name="myfilevalue" type="file" label="Enter some text" description="Choose an image from your computer with maximum 100KB" size="10" accept="image/*" />
+	</fieldset>
+</form>

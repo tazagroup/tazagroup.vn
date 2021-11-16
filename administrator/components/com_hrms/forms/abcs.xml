@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form addfieldprefix="Joomla\Component\Hrms\Administrator\Field">
+	<fieldset>
+		<field name="id" type="number"/>
+        
+         <field name="Trangthai" type="tinyint"/>
+         <field name="published" type="tinyint"/>
+         <field name="ordering" type="int"/>
+         <field name="Ngaytao" type="datetime"/>
+         <field name="idTao" type="int"/>
+	</fieldset>
+</form>

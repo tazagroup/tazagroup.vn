@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset addfieldprefix="Joomla\Component\Content\Administrator\Field">
+		<field name="bpdc" type="editor" label="Biện Pháp Điều Chỉnh" buttons="false" filter="JComponentHelper::filterText"
+		/>			
+        <field name="huongtk" type="editor" label="Hướng Triển Khai" buttons="false" filter="JComponentHelper::filterText"
+		/>		
+	</fieldset>
+</form>
