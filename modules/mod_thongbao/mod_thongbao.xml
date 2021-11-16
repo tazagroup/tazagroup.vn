@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" client="site" method="upgrade">
+	<name>mod_thongbao</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2006</creationDate>
+	<copyright>(C) 2006 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>3.0.0</version>
+	<description>MOD_thongbao_XML_DESCRIPTION</description>
+	<namespace path="src">Joomla\Module\thongbao</namespace>
+	<files>
+		<filename module="mod_thongbao">mod_thongbao.php</filename>
+		<folder>src</folder>
+		<folder>tmpl</folder>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.mod_thongbao.ini</language>
+		<language tag="en-GB">en-GB.mod_thongbao.sys.ini</language>
+	</languages>
+	<help key="JHELP_EXTENSIONS_MODULE_MANAGER_thongbao" />
+	<config>
+		<fields name="params">		
+		</fields>
+	</config>
+</extension>
